@@ -1,6 +1,6 @@
 {
   "name": "sp-react-package1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react package by spsingh",
   "main": "./build/index.js",
   "scripts": {
